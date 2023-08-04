@@ -4,7 +4,7 @@
 // ==UserScript==
 // @name         DX4600 Patcher
 // @namespace    https://github.com/Sec-ant/dx4600-patches
-// @version      0.1.1
+// @version      0.1.2
 // @description  Apply patches to UGREEN DX4600
 // @author       Sec-ant
 // @match        http*://nas.lan:9999/*
